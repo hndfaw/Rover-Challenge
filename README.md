@@ -12,7 +12,7 @@ The roverMoves function takes two parameters; one is the rover's current positio
   1. currentPositon `"0 0 N"`
   2. movingInstructions `"MMLMMMM"`
   
-### Output:
+#### Output:
   `"-4 2 W"`
 
 ## To view the code and run the test
