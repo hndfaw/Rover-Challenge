@@ -6,6 +6,15 @@ This challenge consists of one function that returns the rovers' updated locatio
 
 The roverMoves function takes two parameters; one is the rover's current position, and the second one is a string that gives moving instructions to the rover. The roverMoves returns a string containing the rover's updated location, which consists of x and y-axis relative to the rover's start point and direction, which will be one of the cardinal compass points N E S W.
 
+## Examples
+
+#### Inputs:
+  1. currentPositon `"0 0 N"`
+  2. movingInstructions `MMLMMMM`
+  
+### Output:
+    `"-4 2 W"`
+
 ## To view the code and run the test
 
 Clone down this repo and in the terminal run: 
