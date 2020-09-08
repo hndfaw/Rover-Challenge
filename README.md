@@ -4,5 +4,5 @@
 
 Clone down this repo and in the terminal run: 
 
-`npm install` >>
+`npm install` >
 `npm test rover-test.js`
